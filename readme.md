@@ -6,7 +6,7 @@ Setup Environment:
 3) install requirements ```pip install -r requirements.txt```
 
 ## Primary Requirements
-Code for primary requirements (data request) can be found in ```main_task``` directory.
+Code & Data for primary requirements (data request) can be found in ```main_task``` directory.
 
 ## Bonus Requirements
 Bonus requirements can be found in the respective folder. e.g. Bonus requirement 1 in ```bonus_1```
